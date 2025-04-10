@@ -21,8 +21,8 @@
 
 
 ### About Me :
-I'm an undergrad majoring in Data Science and Economics. I've gained solid skills in statistics, Python, SQL, C++, R, machine learning, data visualization, and economic modeling. My goal is to dive into data science or business intelligence analysis, focusing on how data-driven strategies can optimize business operations and drive growth.
-When I'm not working, I'm also a trained singer, self-taught guitarist, avid reader, occasional writer, and sports enthusiast. 
+I'm an undergrad majoring in Data Science and Economics. I've gained solid skills in statistics, Python, SQL, C++, R, machine learning and deep learning, data visualization, and economic modeling. My goal is to dive into machine learning and artificial intelligence.
+Apart from all things work, I'm also a trained singer, self-taught guitarist, avid reader, occasional writer, and sports enthusiast. 
 
 ---
 
