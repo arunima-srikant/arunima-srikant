@@ -13,7 +13,7 @@ Outside academics, I am a **trained Carnatic vocalist**, **self-taught guitarist
 ### Skills and Tools  
 
 **Programming & Analysis**  
-Python | R | SQL | C++  | Octave | Stata 
+Python | R | SQL | C++  | Octave (MATLAB) | Stata 
 
 **Machine Learning & AI**  
 PyTorch | Scikit-learn | Deep Learning | NLP | Econometrics  
